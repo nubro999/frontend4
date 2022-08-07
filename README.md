@@ -28,3 +28,6 @@ frontend5 + backend : 리엑트 타입으로 변경
 
 <img src="캡쳐이미지">
 <a href="포폴링크" >
+
+# 사용한 링크
+animate 라이브러리 : https://animate.style/ 
